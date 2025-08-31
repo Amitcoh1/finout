@@ -1,1 +1,1 @@
-# finout interview repo
+# finout
