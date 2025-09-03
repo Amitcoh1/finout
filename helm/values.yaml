@@ -1,0 +1,2 @@
+image: metrics-collector:latest
+port: 8080
